@@ -1,6 +1,6 @@
 name: iconsax
 description: iconsax for flutter.
-version: 0.0.6
+version: 0.0.7
 homepage: https://iconsax.io/
 repository: https://github.com/luisDanielRoviraContreras/flutter_iconsax
 issue_tracker: https://github.com/luisDanielRoviraContreras/flutter_iconsax/issues
@@ -22,6 +22,8 @@ flutter:
     - family: iconsax
       fonts:
         - asset: lib/assets/fonts/iconsax.ttf
+        - asset: lib/assets/fonts/iconsax.woff
+        - asset: lib/assets/fonts/iconsax.eot
   uses-material-design: true
   #   - family: Trajan Pro
   #     fonts:
