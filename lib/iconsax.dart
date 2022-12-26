@@ -6,7 +6,7 @@ class Iconsax {
   const Iconsax._();
 
   static const String _fontFamily = 'iconsax';
-  static const String _kFontPkg = 'iconsax';
+  static const String? _kFontPkg = null;
 
   static const IconData dcube =
       IconData(0xe901, fontFamily: _fontFamily, fontPackage: _kFontPkg);
